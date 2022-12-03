@@ -1,1 +1,6 @@
-# dwb_2023-1_proyecto01
+# Proyecto 01 de Desarrollo Web: Back-End
+**Elaborado por:**
+
+- Cruz Carmona Uriel
+
+- Méndez García Raymundo
